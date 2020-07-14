@@ -1,0 +1,4 @@
+test-ignore
+virtualenv
+env
+.DS_Store
